@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.yuti.dynamicskins.core.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dynamicskins.refmap.json",
+  "minVersion": "0.8",
+  "client": [
+    "ModifiedAbstractClientPlayer",
+    "ModifiedItemRenderer",
+    "ModifiedRender"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dynamicskins",
+  "name": "Dynamic Skins",
+  "description": "This mod allows you to have dynamically loaded skins from remote URLs.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/dynamicskins",
+  "updateUrl": "",
+  "authorList": ["Yuti"],
+  "credits": "Yuti, SpongePowered (for Mixins)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
